@@ -29,9 +29,11 @@ There are 3 kinds of infantry troops which will ask for support:
 * Nomad (8 soldiers)
 * Hydra (16 soldiers)
 
-### Workshop
-* [Altis Vanilla](http://steamcommunity.com/sharedfiles/filedetails/?id=973912639)
-* [Altis RHS](http://steamcommunity.com/sharedfiles/filedetails/?id=972265767)
+### Links
+* [BI Forum Thread](https://forums.bistudio.com/forums/topic/207280-kp-support-missions/)
+* Steam Workshop
+    * [Altis Vanilla](http://steamcommunity.com/sharedfiles/filedetails/?id=973912639)
+    * [Altis RHS](http://steamcommunity.com/sharedfiles/filedetails/?id=972265767)
 
 ## License
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
