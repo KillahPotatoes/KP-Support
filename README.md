@@ -12,8 +12,8 @@
 
 ## Available maps
 * Altis
-    * Vanilla NATO vs CSAT
-    * RHS US Army vs Russian VDV
+    * Vanilla - NATO vs CSAT
+    * RHS - US Army vs Russian VDV
 
 ## Description
 In this mission, game mode "ground support", the players take the roles of helicopter pilots tasked with supporting ground units. The playing field includes the two bases of each factions, as well as a total of 10 sectors. From these faction bases ground units are always on their way to independently seize control of those 10 active sectors. The players are there to support the groups by answering requests for transport, air support or medical evacuation. These orders are dynamically generated during the game, which means that no round compared to another is completely equal. This is accompanied by immersive radio traffic.
