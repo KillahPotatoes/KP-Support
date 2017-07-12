@@ -1,0 +1,31 @@
+class Params
+{
+	#define DAYTIMEHOUR_DEFAULT	10
+	
+	#define TICKETS_MIN		400
+	#define TICKETS_MAX		1200
+	#define TICKETS_DEFAULT		800
+
+	#define VIEW_DISTANCE_MIN	1500
+	#define VIEW_DISTANCE_MAX	4000
+	#define VIEW_DISTANCE_DEFAULT	2000
+
+	#include "params\paramDaytimeHour.inc"
+	#include "params\paramWeather.inc"
+	#include "params\paramRespawnTicketsNoDisabled.inc"
+	#include "params\paramViewDistance.inc"
+};
+
+respawn = 2;
+respawnDelay = 30;
+respawnVehicleDelay = 0;
+respawnTemplates[] = {"MenuPosition","Tickets"};
+respawnOnStart = 0;
+respawnDialog = 0;
+
+loadScreen="kplogo.jpg";
+onLoadMission = "www.killahpotatoes.de";
+author = "[KP] Wyqer";
+onLoadName = "KP Support Altis RHS";
+
+#include "cfgGroups.hpp"
