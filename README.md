@@ -31,7 +31,7 @@ There are 3 kinds of infantry troops which will ask for support:
 
 ## Links
 * [BI Forum Thread](https://forums.bistudio.com/forums/topic/207280-kp-support-missions/)
-* [Discord](url=https://discord.gg/bpPUU48)
+* [Discord](https://discord.gg/bpPUU48)
 * Steam Workshop
     * [Altis Vanilla](http://steamcommunity.com/sharedfiles/filedetails/?id=973912639)
     * [Altis RHS](http://steamcommunity.com/sharedfiles/filedetails/?id=972265767)
