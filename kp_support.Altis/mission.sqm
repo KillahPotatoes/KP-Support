@@ -12,10 +12,10 @@ class EditorData
 	};
 	class Camera
 	{
-		pos[]={21036.586,152.76801,8424.9629};
-		dir[]={0,-0.70710683,0.70710683};
-		up[]={0,0.70710677,0.70710677};
-		aside[]={0.99999994,0,0};
+		pos[]={20861.432,95.107658,7176.9893};
+		dir[]={-0.69974273,-0.51460952,0.49552476};
+		up[]={-0.41997057,0.8574245,0.29740298};
+		aside[]={0.57792139,5.7509169e-008,0.81609583};
 	};
 };
 binarizationWanted=0;
@@ -800,7 +800,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="1";
+							value="0.01";
 						};
 					};
 				};
@@ -857,7 +857,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0.02";
 						};
 					};
 				};
@@ -876,7 +876,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="0.6";
+							value="0.8";
 						};
 					};
 				};
@@ -971,7 +971,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0";
 						};
 					};
 				};
@@ -990,7 +990,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="4";
+							value="0.04";
 						};
 					};
 				};
@@ -1129,7 +1129,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="1";
+							value="0.01";
 						};
 					};
 				};
@@ -1186,7 +1186,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0.02";
 						};
 					};
 				};
@@ -1205,7 +1205,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="0.6";
+							value="0.8";
 						};
 					};
 				};
@@ -1300,7 +1300,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0";
 						};
 					};
 				};
@@ -1319,7 +1319,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="4";
+							value="0.04";
 						};
 					};
 				};
@@ -1457,7 +1457,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="1";
+							value="0.01";
 						};
 					};
 				};
@@ -1514,7 +1514,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0.02";
 						};
 					};
 				};
@@ -1533,7 +1533,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="0.6";
+							value="0.8";
 						};
 					};
 				};
@@ -1628,7 +1628,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0";
 						};
 					};
 				};
@@ -1647,7 +1647,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="4";
+							value="0.04";
 						};
 					};
 				};
@@ -1786,7 +1786,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="1";
+							value="0.01";
 						};
 					};
 				};
@@ -1843,7 +1843,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0.02";
 						};
 					};
 				};
@@ -1862,7 +1862,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="0.6";
+							value="0.8";
 						};
 					};
 				};
@@ -1957,7 +1957,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0";
 						};
 					};
 				};
@@ -1976,7 +1976,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="4";
+							value="0.04";
 						};
 					};
 				};
@@ -2114,7 +2114,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="1";
+							value="0.01";
 						};
 					};
 				};
@@ -2171,7 +2171,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0.02";
 						};
 					};
 				};
@@ -2190,7 +2190,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="0.6";
+							value="0.8";
 						};
 					};
 				};
@@ -2285,7 +2285,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0";
 						};
 					};
 				};
@@ -2304,7 +2304,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="4";
+							value="0.04";
 						};
 					};
 				};
@@ -2442,7 +2442,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="1";
+							value="0.01";
 						};
 					};
 				};
@@ -2499,7 +2499,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0.02";
 						};
 					};
 				};
@@ -2518,7 +2518,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="0.6";
+							value="0.8";
 						};
 					};
 				};
@@ -2613,7 +2613,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0";
 						};
 					};
 				};
@@ -2632,7 +2632,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="4";
+							value="0.04";
 						};
 					};
 				};
@@ -2770,7 +2770,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="1";
+							value="0.01";
 						};
 					};
 				};
@@ -2827,7 +2827,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0.02";
 						};
 					};
 				};
@@ -2846,7 +2846,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="0.6";
+							value="0.8";
 						};
 					};
 				};
@@ -2941,7 +2941,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0";
 						};
 					};
 				};
@@ -2960,7 +2960,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="4";
+							value="0.04";
 						};
 					};
 				};
@@ -3039,7 +3039,7 @@ class Mission
 		{
 			dataType="Trigger";
 			position[]={16672.473,18.148804,16147.346};
-			angle=0.98493844;
+			angle=0.98493814;
 			class Attributes
 			{
 				sizeA=120;
@@ -3099,7 +3099,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="1";
+							value="0.01";
 						};
 					};
 				};
@@ -3156,7 +3156,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0.02";
 						};
 					};
 				};
@@ -3175,7 +3175,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="0.6";
+							value="0.8";
 						};
 					};
 				};
@@ -3270,7 +3270,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0";
 						};
 					};
 				};
@@ -3289,7 +3289,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="4";
+							value="0.04";
 						};
 					};
 				};
@@ -3429,7 +3429,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="1";
+							value="0.01";
 						};
 					};
 				};
@@ -3486,7 +3486,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0.02";
 						};
 					};
 				};
@@ -3505,7 +3505,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="0.6";
+							value="0.8";
 						};
 					};
 				};
@@ -3600,7 +3600,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0";
 						};
 					};
 				};
@@ -3619,7 +3619,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="4";
+							value="0.04";
 						};
 					};
 				};
@@ -3757,7 +3757,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="1";
+							value="0.01";
 						};
 					};
 				};
@@ -3814,7 +3814,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0.02";
 						};
 					};
 				};
@@ -3833,7 +3833,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="0.6";
+							value="0.8";
 						};
 					};
 				};
@@ -3928,7 +3928,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="0";
 						};
 					};
 				};
@@ -3947,7 +3947,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="4";
+							value="0.04";
 						};
 					};
 				};
@@ -5390,34 +5390,35 @@ class Mission
 			dataType="Object";
 			class PositionInfo
 			{
-				position[]={20797.68,31.185839,7206.6035};
-				angles[]={6.2805333,5.6556673,6.2805333};
+				position[]={20797.68,31.185844,7206.603};
+				angles[]={6.2805324,5.6556692,6.2805324};
 			};
 			side="Empty";
 			flags=4;
 			class Attributes
 			{
+				lock="LOCKEDPLAYER";
 			};
 			id=138;
 			type="O_Truck_03_ammo_F";
-			atlOffset=-5.7220459e-006;
 		};
 		class Item78
 		{
 			dataType="Object";
 			class PositionInfo
 			{
-				position[]={20817.398,31.105345,7220.7271};
-				angles[]={0.0026520467,5.542623,6.2818484};
+				position[]={20817.398,31.104906,7220.7275};
+				angles[]={0.0026529003,5.5426245,6.2818413};
 			};
 			side="Empty";
 			flags=4;
 			class Attributes
 			{
+				lock="LOCKEDPLAYER";
 			};
 			id=139;
 			type="O_Truck_03_repair_F";
-			atlOffset=-0.0015602112;
+			atlOffset=-0.0019989014;
 		};
 		class Item79
 		{
@@ -5452,17 +5453,17 @@ class Mission
 			dataType="Object";
 			class PositionInfo
 			{
-				position[]={20820.701,31.756199,7177.6851};
-				angles[]={6.2805333,0.89967114,0.0053265258};
+				position[]={20820.701,31.756233,7177.6851};
+				angles[]={6.2805324,0.89966488,0.0053232545};
 			};
 			side="Empty";
 			flags=4;
 			class Attributes
 			{
+				lock="LOCKEDPLAYER";
 			};
 			id=142;
 			type="O_Truck_03_medical_F";
-			atlOffset=-3.4332275e-005;
 		};
 		class Item82
 		{
