@@ -14,6 +14,12 @@
 * Altis
     * Vanilla - NATO vs CSAT
     * RHS - US Army vs Russian VDV
+* Takistan
+    * Vanilla - NATO vs CSAT
+    * RHS - US Army vs Russian VDV
+* Tanoa
+    * Vanilla - NATO vs CSAT
+    * RHS - US Marines vs Russian VDV
 
 ## Description
 In this mission, game mode "ground support", the players take the roles of helicopter pilots tasked with supporting ground units. The playing field includes the two bases of each factions, as well as a total of 10 sectors. From these faction bases ground units are always on their way to independently seize control of those 10 active sectors. The players are there to support the groups by answering requests for transport, air support or medical evacuation. These orders are dynamically generated during the game, which means that no round compared to another is completely equal. This is accompanied by immersive radio traffic.
@@ -35,6 +41,10 @@ There are 3 kinds of infantry troops which will ask for support:
 * Steam Workshop
     * [Altis Vanilla](http://steamcommunity.com/sharedfiles/filedetails/?id=973912639)
     * [Altis RHS](http://steamcommunity.com/sharedfiles/filedetails/?id=972265767)
+    * [Takistan Vanilla](http://steamcommunity.com/sharedfiles/filedetails/?id=975220275)
+    * [Takistan RHS](http://steamcommunity.com/sharedfiles/filedetails/?id=975461560)
+    * [Tanoa Vanilla](http://steamcommunity.com/sharedfiles/filedetails/?id=974364845)
+    * [Tanoa RHS](http://steamcommunity.com/sharedfiles/filedetails/?id=974665090)
 
 ## License
 Copyright (c) 2017 [Wyqer](https://github.com/Wyqer)
