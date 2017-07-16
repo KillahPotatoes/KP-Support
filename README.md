@@ -14,6 +14,9 @@
 * Altis
     * Vanilla - NATO vs CSAT
     * RHS - US Army vs Russian VDV
+* Malden
+    * Vanilla - NATO vs CSAT
+    * RHS - US Army vs Russian VDV
 * Takistan
     * Vanilla - NATO vs CSAT
     * RHS - US Army vs Russian VDV
