@@ -177,6 +177,14 @@ class ScenarioData
 		minPlayers=1;
 		maxPlayers=18;
 	};
+	wreckManagerMode=1;
+	wreckLimit=20;
+	wreckRemovalMinTime=300;
+	wreckRemovalMaxTime=1800;
+	corpseManagerMode=1;
+	corpseLimit=60;
+	corpseRemovalMinTime=120;
+	corpseRemovalMaxTime=900;
 };
 class CustomAttributes
 {
@@ -270,7 +278,7 @@ class Mission
 	};
 	class Entities
 	{
-		items=169;
+		items=168;
 		class Item0
 		{
 			dataType="Object";
@@ -723,7 +731,7 @@ class Mission
 									"SCALAR"
 								};
 							};
-							value=100;
+							value=120;
 						};
 					};
 				};
@@ -2656,7 +2664,7 @@ class Mission
 									"SCALAR"
 								};
 							};
-							value=100;
+							value=120;
 						};
 					};
 				};
@@ -8091,7 +8099,7 @@ class Mission
 		{
 			dataType="Trigger";
 			position[]={1476.1345,217.87112,3583.7129};
-			angle=3.9764857;
+			angle=3.9764853;
 			class Attributes
 			{
 				sizeA=140;
@@ -9422,66 +9430,13 @@ class Mission
 			dataType="Logic";
 			class PositionInfo
 			{
-				position[]={12503.592,510.2652,6656.5034};
-				angles[]={0.35964352,0,0.30243108};
-			};
-			id=513;
-			type="ModuleSpawnAIOptions_F";
-			class CustomAttributes
-			{
-				class Attribute0
-				{
-					property="ModuleSpawnAIOptions_F_CorpseDeleteTime";
-					expression="_this setVariable ['CorpseDeleteTime',_value,true];";
-					class Value
-					{
-						class data
-						{
-							class type
-							{
-								type[]=
-								{
-									"SCALAR"
-								};
-							};
-							value=15;
-						};
-					};
-				};
-				class Attribute1
-				{
-					property="ModuleSpawnAIOptions_F_WreckDeleteTime";
-					expression="_this setVariable ['WreckDeleteTime',_value,true];";
-					class Value
-					{
-						class data
-						{
-							class type
-							{
-								type[]=
-								{
-									"SCALAR"
-								};
-							};
-							value=45;
-						};
-					};
-				};
-				nAttributes=2;
-			};
-		};
-		class Item158
-		{
-			dataType="Logic";
-			class PositionInfo
-			{
 				position[]={12399.305,467.75647,6655.0142};
 				angles[]={0.1067941,0,0.33987713};
 			};
 			id=514;
 			type="ModuleSpawnAISectorTactic_F";
 		};
-		class Item159
+		class Item158
 		{
 			dataType="Group";
 			side="East";
@@ -9554,7 +9509,7 @@ class Mission
 			};
 			id=515;
 		};
-		class Item160
+		class Item159
 		{
 			dataType="Group";
 			side="East";
@@ -9627,7 +9582,7 @@ class Mission
 			};
 			id=517;
 		};
-		class Item161
+		class Item160
 		{
 			dataType="Group";
 			side="East";
@@ -9700,7 +9655,7 @@ class Mission
 			};
 			id=519;
 		};
-		class Item162
+		class Item161
 		{
 			dataType="Group";
 			side="East";
@@ -9775,7 +9730,7 @@ class Mission
 			id=521;
 			atlOffset=0.00030517578;
 		};
-		class Item163
+		class Item162
 		{
 			dataType="Group";
 			side="East";
@@ -9848,7 +9803,7 @@ class Mission
 			};
 			id=523;
 		};
-		class Item164
+		class Item163
 		{
 			dataType="Group";
 			side="East";
@@ -9921,7 +9876,7 @@ class Mission
 			};
 			id=525;
 		};
-		class Item165
+		class Item164
 		{
 			dataType="Group";
 			side="East";
@@ -9996,7 +9951,7 @@ class Mission
 			id=527;
 			atlOffset=0.00030517578;
 		};
-		class Item166
+		class Item165
 		{
 			dataType="Group";
 			side="East";
@@ -10071,7 +10026,7 @@ class Mission
 			id=529;
 			atlOffset=0.00033569336;
 		};
-		class Item167
+		class Item166
 		{
 			dataType="Logic";
 			class PositionInfo
@@ -10182,7 +10137,7 @@ class Mission
 				nAttributes=5;
 			};
 		};
-		class Item168
+		class Item167
 		{
 			dataType="Logic";
 			class PositionInfo
