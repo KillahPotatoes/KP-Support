@@ -41,6 +41,8 @@ There are 3 kinds of infantry troops which will ask for support:
 * Steam Workshop
     * [Altis Vanilla](http://steamcommunity.com/sharedfiles/filedetails/?id=973912639)
     * [Altis RHS](http://steamcommunity.com/sharedfiles/filedetails/?id=972265767)
+    * [Malden Vanilla](http://steamcommunity.com/sharedfiles/filedetails/?id=1061736835)
+    * [Malden RHS](http://steamcommunity.com/sharedfiles/filedetails/?id=1061886069)
     * [Takistan Vanilla](http://steamcommunity.com/sharedfiles/filedetails/?id=975220275)
     * [Takistan RHS](http://steamcommunity.com/sharedfiles/filedetails/?id=975461560)
     * [Tanoa Vanilla](http://steamcommunity.com/sharedfiles/filedetails/?id=974364845)
